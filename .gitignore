@@ -1,0 +1,26 @@
+# ⛔ Archivos y carpetas generadas automáticamente
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 💻 Archivos del sistema y de entorno
+*.DS_Store
+*.swp
+*.log
+.env
+
+# ⚙️ Configuración de editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📦 Archivos y carpetas comunes para entornos virtuales
+venv/
+env/
+*.egg-info/
+
+# 🚫 Archivos de bases de datos temporales (si usás sqlite o similar)
+*.db
+*.sqlite3
